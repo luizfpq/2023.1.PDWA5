@@ -11,7 +11,7 @@ Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 - ...
   Use o readme para documentar o andamento do seu projeto.
 
-## Alterações realizadas frente ao modelo de referência apresentado
+## Alterações realizadas frente ao modelo de referência apresentado:
 - alteração xyz;
 - alteração xpto;
 - ...
